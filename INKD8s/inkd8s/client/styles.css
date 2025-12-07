@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: #fff;
+  margin: 0;
+}
+
+nav ul {
+  background: #222;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+
+nav a {
+  color: #0f0;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
